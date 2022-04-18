@@ -10,3 +10,9 @@ Week 1:
 - Reading CSV file in TensorFlow.js (ex: Iris Dataset)
 - One Hot Encoding (labeling)
 - Assignment: Breast Cancer Classification
+
+Wekk 2:
+- tf-vis library for visualisation
+- sprite sheet for training in web
+- rf.tidy()
+- Assignment: Fashion MNIST
