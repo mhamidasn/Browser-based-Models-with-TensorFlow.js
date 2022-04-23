@@ -28,6 +28,6 @@ Week 4:
 - Assignment: Apply transfer learning to train a model to recognize hand gestures of rock, paper, scissors, lizard, and spock
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99332005/164878616-95b41f55-c0fb-4730-acd5-020eaa02f96c.png">
+  <img src="https://user-images.githubusercontent.com/99332005/163818895-f53d0c45-b21d-4352-b2c3-9f72d3dd1522.png">
 </p>
 
